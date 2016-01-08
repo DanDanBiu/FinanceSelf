@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.329" errors="0" skipped="0" tests="1" name="TestMyBatis">
+<testsuite failures="0" time="0.382" errors="0" skipped="0" tests="1" name="TestMyBatis">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\MyEclipse 2015\binary\com.sun.java.jdk7.win32.x86_1.7.0.u45\jre\bin"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value="Service Pack 1"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Users\dandanbiu\Workspaces\MyEclipse 2015\financeself Maven Webapp"/>
+    <property name="user.dir" value="C:\Users\dandanbiu\Workspaces\MyEclipse 2015\FinanceSelf"/>
     <property name="java.runtime.version" value="1.7.0_45-b18"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="C:\MyEclipse 2015\binary\com.sun.java.jdk7.win32.x86_1.7.0.u45\jre\lib\endorsed"/>
@@ -26,7 +26,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 7"/>
-    <property name="classworlds.conf" value="C:\Users\dandanbiu\Workspaces\MyEclipse 2015\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf1313573603259813417.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\dandanbiu\Workspaces\MyEclipse 2015\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf4374865444438532350.tmp"/>
     <property name="sun.jnu.encoding" value="GBK"/>
     <property name="java.library.path" value="C:\MyEclipse 2015\binary\com.sun.java.jdk7.win32.x86_1.7.0.u45\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/MyEclipse 2015/binary/com.sun.java.jdk7.win32.x86_1.7.0.u45/jre/bin/client;C:/MyEclipse 2015/binary/com.sun.java.jdk7.win32.x86_1.7.0.u45/jre/bin;C:/MyEclipse 2015/binary/com.sun.java.jdk7.win32.x86_1.7.0.u45/jre/lib/i386;C:\Program Files\Java\jdk1.8.0_66\bin;C:\Program Files\Java\jdk1.8.0_66\jre\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\apache-maven-3.3.3\bin;C:\Program Files\apache-tomcat-8.0.30\lib;C:\Program Files\apache-tomcat-8.0.30\bin;."/>
     <property name="m2eclipse.workspace.state" value="C:\Users\dandanbiu\Workspaces\MyEclipse 2015\.metadata\.plugins\org.eclipse.m2e.core\workspacestate.properties"/>
@@ -54,7 +54,7 @@
     <property name="java.ext.dirs" value="C:\MyEclipse 2015\binary\com.sun.java.jdk7.win32.x86_1.7.0.u45\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
     <property name="sun.boot.class.path" value="C:\MyEclipse 2015\binary\com.sun.java.jdk7.win32.x86_1.7.0.u45\jre\lib\resources.jar;C:\MyEclipse 2015\binary\com.sun.java.jdk7.win32.x86_1.7.0.u45\jre\lib\rt.jar;C:\MyEclipse 2015\binary\com.sun.java.jdk7.win32.x86_1.7.0.u45\jre\lib\sunrsasign.jar;C:\MyEclipse 2015\binary\com.sun.java.jdk7.win32.x86_1.7.0.u45\jre\lib\jsse.jar;C:\MyEclipse 2015\binary\com.sun.java.jdk7.win32.x86_1.7.0.u45\jre\lib\jce.jar;C:\MyEclipse 2015\binary\com.sun.java.jdk7.win32.x86_1.7.0.u45\jre\lib\charsets.jar;C:\MyEclipse 2015\binary\com.sun.java.jdk7.win32.x86_1.7.0.u45\jre\lib\jfr.jar;C:\MyEclipse 2015\binary\com.sun.java.jdk7.win32.x86_1.7.0.u45\jre\classes"/>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="maven.home" value="C:\Users\dandanbiu\Workspaces\MyEclipse 2015\financeself Maven Webapp\EMBEDDED"/>
+    <property name="maven.home" value="C:\Users\dandanbiu\Workspaces\MyEclipse 2015\FinanceSelf\EMBEDDED"/>
     <property name="file.separator" value="\"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -62,5 +62,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
   </properties>
-  <testcase time="0.329" classname="TestMyBatis" name="test1"/>
+  <testcase time="0.382" classname="TestMyBatis" name="test1"/>
 </testsuite>
